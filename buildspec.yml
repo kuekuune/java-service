@@ -22,5 +22,4 @@ artifacts:
   files:
     - 'appspec.yml'
     - 'scripts/start_server'
-    - 'scripts/install_dependencies'
-    - 'target/ROOT.war'
+    - 'target/some-service.jar'
